@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ekansh Saxena. I am a second-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am an aspiring Software Developer at [Codebugged AI](https://codebugged.com/), presently working as Problem Reviewer/Setter at [Coding Ninjas](https://www.codingninjas.com/) and [Prepbytes](https://www.prepbytes.com/). My interests aside from Software Development are Competitive Programming.
+I am Ekansh Saxena. I am a final-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am a Software Development Engineering Intern at [Expedia Group](https://www.expediagroup.com/home/default.aspx), along with this I love to solve problems based on Data Structures and Algorithm. I also do Competitive Programming in my free time.
 
 <table>
   <tr>
@@ -16,9 +16,11 @@ I am Ekansh Saxena. I am a second-year undergraduate student at Madan Mohan Mala
 
 ## Timeline
 
-- Problem Setter, [Prepbytes](https://www.prepbytes.com/) (June, 2021 - Present)
-- Problem Reviewer/Sette, [Coding Ninjas](https://www.codingninjas.com/) (January, 2021 - Present)
-- Software Developer, [Codebugged AI](https://codebugged.com/) (October, 2019 - Present)
+- Software Development Engineering Intern, [Expedia Group](https://www.expediagroup.com/home/default.aspx) (May, 2022 - Present)
+- Technical Content Engineer Intern, [Prepbytes](https://www.prepbytes.com/) (March, 2022 - May, 2022)
+- Full Stack Development Intern, [Coding Ninjas](https://www.codingninjas.com/) (November, 2021 - April, 2022)
+- Problem Reviewer/Setter, [Coding Ninjas](https://www.codingninjas.com/) (January, 2021 - October, 2021)
+- Software Developer, [Codebugged AI](https://codebugged.com/) (October, 2019 - January, 2021)
 
 ## Languages and Tools: 
 
@@ -28,11 +30,11 @@ I am Ekansh Saxena. I am a second-year undergraduate student at Madan Mohan Mala
 ### Languages
 >C++, Python, Dart, HTML, CSS, and JavaScript
 
-### Machine Learning Framwork
->Tensorflow (Currenly Learning: Just started)
+### Fontend Development
+> React and Angular
 
 ### Backend Development
-> Django and Flask
+> Django, Flask, and Ruby on Rails
 
 ### DataBase
 > MySql, FireStore and Postgres
@@ -53,7 +55,7 @@ I am Ekansh Saxena. I am a second-year undergraduate student at Madan Mohan Mala
 
 ## 👯 I’m looking to collaborate on
 
-* For doing projects on **App development**.
+* For doing projects on **Web/App development**.
 
 ## Github Stats
 
@@ -70,11 +72,11 @@ I am Ekansh Saxena. I am a second-year undergraduate student at Madan Mohan Mala
 ## 👨 Social
 
 1. [LinkedIn](https://www.linkedin.com/in/ekansh-saxena-a9b163197/)
-2. [CodeChef](https://www.codechef.com/users/ekansh9927)
-3. [Codeforces](http://codeforces.com/profile/ekansh9927)
-4. [HackerRank](https://www.hackerrank.com/Kevin7733)
-5. [GFG](https://auth.geeksforgeeks.org/user/ekansh9927)
-6. [LeetCode](https://leetcode.com/ekansh9927/)
+2. [LeetCode](https://leetcode.com/ekansh9927/)
+3. [CodeChef](https://www.codechef.com/users/ekansh9927)
+4. [Codeforces](http://codeforces.com/profile/ekansh9927)
+5. [HackerRank](https://www.hackerrank.com/Kevin7733)
+6. [GFG](https://auth.geeksforgeeks.org/user/ekansh9927)
 7. [Instagram](https://www.instagram.com/ekansh9927/)
 
 <div align="center">
