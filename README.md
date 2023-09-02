@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ekansh Saxena. I am a final-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am a Software Development Engineering Intern at [Expedia Group](https://www.expediagroup.com/home/default.aspx), along with this I love to solve problems based on Data Structures and Algorithm. I also do Competitive Programming in my free time.
+My name is Ekansh Saxena. I recently completed my B-Tech (IT) degree from Madan Mohan Malaviya University of Technology in Gorakhpur. Currently, I work as a Software Development Engineer at [Expedia Group](https://www.expediagroup.com/home/default.aspx). One of my passions is problem-solving using Data Structures and algorithms. I also enjoy traveling, and some of my past trips include Kerala and Mathura.
 
 <table>
   <tr>
@@ -16,7 +16,9 @@ I am Ekansh Saxena. I am a final-year undergraduate student at Madan Mohan Malav
 
 ## Timeline
 
-- Software Development Engineering Intern, [Expedia Group](https://www.expediagroup.com/home/default.aspx) (May, 2022 - Present)
+- Software Development Engineer - I, [Expedia Group](https://www.expediagroup.com/home/default.aspx) (Aug, 2023 - Present)
+- Software Development Engineering Intern, [Juspay](https://juspay.in/) (July, 2022 - Feb, 2023)
+- Software Development Engineering Intern, [Expedia Group](https://www.expediagroup.com/home/default.aspx) (May, 2022 - July, 2023)
 - Technical Content Engineer Intern, [Prepbytes](https://www.prepbytes.com/) (March, 2022 - May, 2022)
 - Full Stack Development Intern, [Coding Ninjas](https://www.codingninjas.com/) (November, 2021 - April, 2022)
 - Problem Reviewer/Setter, [Coding Ninjas](https://www.codingninjas.com/) (January, 2021 - October, 2021)
@@ -25,33 +27,33 @@ I am Ekansh Saxena. I am a final-year undergraduate student at Madan Mohan Malav
 ## Languages and Tools: 
 
 ### Version Control System
->Git, GitHub & GitLab
+> Git, GitHub & GitLab
 
 ### Languages
->C++, Python, Dart, HTML, CSS, and JavaScript
+> C++, Python, Dart, HTML, CSS, Kotlin, and JavaScript
 
-### Fontend Development
-> React and Angular
+### Frontend Development
+> React & Angular
 
 ### Backend Development
-> Django, Flask, and Ruby on Rails
+> Django & Flask
 
 ### DataBase
-> MySql, FireStore and Postgres
+> MySql, FireStore & Postgres
 <!-- 
 ### Cloud
 >Digital Ocean(Currenly Learning: Just started) -->
 
 ### Mobile Application Development
->Flutter
+> Flutter, Kotlin
 
-
+<!--
 ## 🔭 I’m currently working on
-* An project which comes under the education section. One can earn real money while just doing Competitive Programming there.
+* 
+-->
 
 ## 🌱 I’m currently learning
-* Complex Algorithms that helps in Competitive Programming.
-* Optimizing space on Mobile Apps.
+* Kotlin, Kubernetes, and GraphQL.
 
 ## 👯 I’m looking to collaborate on
 
