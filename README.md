@@ -60,10 +60,12 @@ My name is Ekansh Saxena. I recently completed my B-Tech (IT) degree from Madan 
 * For doing projects on **Web/App development**.
 
 ## Github Stats
-
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekanshsaxena">
-<img src="https://streak-stats.demolab.com/?user=ekanshsaxena">
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ekanshsaxena)](https://git.io/streak-stats) -->
+<img src="https://streak-stats.demolab.com/?user=ekanshsaxena"> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekanshsaxena&theme=dark)](https://git.io/streak-stats)
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=ekanshsaxena&count_private=true&show_icons=true&theme=light" alt="Ekansh's github stats"/>
 
